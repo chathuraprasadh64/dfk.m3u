@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="rupavahini" tvg-name="Rupavahini" group-title="TV Channels",Rupavahini
-https://edge2-moblive.yuppcdn.net/transsd/smil:runi01.smil/chunklist_w690525355_b596000_DVR.m3u8
+#EXTINF:-1 tvg-id="rupavahini" tvg-name="Rupavahini" group-title="TV Channels",https://edge2-moblive.yuppcdn.net/transsd/smil:runi01.smil/chunklist_w690525355_b596000_DVR.m3u8
 
 #EXTINF:-1 tvg-id="sirasa" tvg-name="Sirasa" group-title="TV Channels",Sirasa
 https://edge2-moblive.yuppcdn.net/transsd/smil:sirtv09.smil/chunklist_w2038510983_b596000_DVR.m3u8
