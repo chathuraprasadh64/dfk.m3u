@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="rupavahini" tvg-name="Rupavahini" group-title="TV Channels",Rupavahini
+https://edge2-moblive.yuppcdn.net/transsd/smil:runi01.smil/chunklist_w690525355_b596000_DVR.m3u8
+
+#EXTINF:-1 tvg-id="sirasa" tvg-name="Sirasa" group-title="TV Channels",Sirasa
+https://edge2-moblive.yuppcdn.net/transsd/smil:sirtv09.smil/chunklist_w2038510983_b596000_DVR.m3u8
+
+#EXTINF:-1 tvg-id="derana" tvg-name="Derana" group-title="TV Channels",Derana
+https://edge2-moblive.yuppcdn.net/transhd2/smil:detv04.smil/chunklist_b596000.m3u8
+
+#EXTINF:-1 tvg-id="hiru" tvg-name="Hiru" group-title="TV Channels",Hiru
+https://edge4-moblive.yuppcdn.net/transhd2/smil:hitv17.smil/chunklist_b596000.m3u8
+
+#EXTINF:-1 tvg-id="swarna" tvg-name="Swarna" group-title="TV Channels",Swarna
+https://edge4-moblive.yuppcdn.net/transsd/smil:swani06.smil/chunklist_w869245619_b596000_DVR.m3u8
+
+#EXTINF:-1 tvg-id="siyatha" tvg-name="Siyatha" group-title="TV Channels",Siyatha
+https://edge3-moblive.yuppcdn.net/transhd2/smil:siytv08.smil/chunklist_b596000.m3u8
+
+#EXTINF:-1 tvg-id="itn" tvg-name="ITN" group-title="TV Channels",ITN
+https://edge4-moblive.yuppcdn.net/transsd/smil:itn43.smil/chunklist_w2096582320_b596000_DVR.m3u8
+
+#EXTINF:-1 tvg-id="nethra" tvg-name="Nethra" group-title="TV Channels",Nethra
+https://edge4-moblive.yuppcdn.net/transsd/smil:chii02.smil/chunklist_w1350505881_b596000_DVR.m3u8
+
+#EXTINF:-1 tvg-id="i" tvg-name="I" group-title="TV Channels",I
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:nettv15.smil/chunklist_w918500314_b596000.m3u8
+
+#EXTINF:-1 tvg-id="tv" tvg-name="TV" group-title="TV Channels",TV
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:tv111.smil/chunklist_w1258769513_b596000.m3u8
+
+#EXTINF:-1 tvg-id="eventtv" tvg-name="Event TV" group-title="TV Channels",Event TV
+https://edge4-moblive.yuppcdn.net/transsd/smil:eventtv.smil/chunklist_w1764141428_b596000_DVR.m3u8
+
+#EXTINF:-1 tvg-id="derana_news" tvg-name="Derana News" group-title="TV Channels",Derana News
+https://edge2-moblive.yuppcdn.net/transhd2/smil:detv04.smil/chunklist_b596000.m3u8
