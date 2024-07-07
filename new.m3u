@@ -39,14 +39,14 @@ https://edge2-moblive.yuppcdn.net/transhd2/smil:detv04.smil/chunklist_b596000.m3
 #EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="Kids",NickToons (720p)
 http://143.244.60.30/NICKTOONS/index.m3u8
 
-#EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="" group-title="TV Channels"Ten Cricket
+#EXTINF:-1 tvg-id="Ten Cricket" tvg-logo="" group-title="TV Channels",Ten Cricket
 https://live.peotv.com/bpk-tv/044/output/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxTV" tvg-logo="" group-title="TV Channels"Fox TV
+#EXTINF:-1 tvg-id="FoxTV" tvg-logo="" group-title="TV Channels",Fox TV
 https://stream01.vnet.am/Fox/mono.m3u8
 
-#EXTINF:-1 tvg-id="TRTSport" tvg-logo="" group-title="TV Channels"TRT Sport
+#EXTINF:-1 tvg-id="TRTSport" tvg-logo="" group-title="TV Channels",TRT Sport
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 
-#EXTINF:-1 tvg-id="Star_Sport_1" tvg-logo="" group-title="TV Channels"Star Sport 1
+#EXTINF:-1 tvg-id="Star_Sport_1" tvg-logo="" group-title="TV Channels",Star Sport 1
 http://103.99.249.139/starsport1/index.m3u8
