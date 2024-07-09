@@ -50,4 +50,21 @@ https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 
 #EXTINF:-1 tvg-id="Star_Sport_1" tvg-logo="" group-title="TV Channels",Star Sport 1
 http://103.99.249.139/starsport1/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Sony4k" tvg-logo="" group-title="TV Channels",Sony 4k
+http://filex.tv:8080/2TVtkhVJ7ajs/baevzdFA5xu8/275035
+#EXTINF:-1 tvg-id="SonySport1" tvg-logo="" group-title="TV Channels",Sony sport 1
+http://filex.tv:8080/2TVtkhVJ7ajs/baevzdFA5xu8/247155
+#EXTINF:-1 tvg-id="SonySport3" tvg-logo="" group-title="TV Channels",Sony sport 3
+http://filex.tv:8080/2TVtkhVJ7ajs/baevzdFA5xu8/247157
+#EXTINF:-1 tvg-id="Starsport1" tvg-logo="" group-title="TV Channels",Star sport 1
+http://filex.tv:8080/2TVtkhVJ7ajs/baevzdFA5xu8/247159
+#EXTINF:-1 tvg-id="Starsport2" tvg-logo="" group-title="TV Channels",Star sport 2
+http://filex.tv:8080/2TVtkhVJ7ajs/baevzdFA5xu8/247160
+#EXTINF:-1 tvg-id="Ptv" tvg-logo="" group-title="TV Channels",Ptv sport
+http://filex.tv:8080/2TVtkhVJ7ajs/baevzdFA5xu8/247170
+#EXTINF:-1 tvg-id="Movie HD" tvg-logo="" group-title="TV Channels",Movie HD
+http://filex.tv:8080/2TVtkhVJ7ajs/baevzdFA5xu8/113
  
