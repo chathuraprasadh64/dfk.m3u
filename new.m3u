@@ -66,4 +66,6 @@ http://filex.tv:8080/2TVtkhVJ7ajs/baevzdFA5xu8/247170
 #EXTINF:-1 tvg-id="Movie HD" tvg-logo="" group-title="TV Channels",Movie HD
 http://filex.tv:8080/2TVtkhVJ7ajs/baevzdFA5xu8/113
 
+#EXTINF:-1 tvg-id="Papare" tvg-logo="" group-title="TV Channels",Papare TV
+https://livecdn.thepapare.com/out/v1/f08df06f4d95476a90bd2f868dcb524a/index.m3u8
  
